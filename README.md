@@ -9,12 +9,12 @@ When I'm not coding, you'll find me exploring the latest developments in technol
 
 Let's connect and explore the vast horizons of technology together!
 
-- 🔭 Currently working on: Backend-focused full-stack web development.
-- 🤝 Looking to collaborate on: Open-source ML projects and tech community initiatives.
-- 🆘 Need help with: Optimizing database interactions and refining data processing algorithms.
-- 📚 Learning: Advanced AI concepts, especially neural networks and NLP.
-- ❓ Ask me about: Full-stack development, project management, or code deployment strategies.
-- 🎉 Fun fact: Developed an AI chatbot that recites poetry in a 24-hour hackathon!
+ 🔭 Currently working on: Backend-focused full-stack web development.
+ 🤝 Looking to collaborate on: Open-source ML projects and tech community initiatives.
+ 🆘 Need help with: Optimizing database interactions and refining data processing algorithms.
+ 📚 Learning: Advanced AI concepts, especially neural networks and NLP.
+ ❓ Ask me about: Full-stack development, project management, or code deployment strategies.
+ 🎉 Fun fact: Developed an AI chatbot that recites poetry in a 24-hour hackathon!
 
 ## 🌐 Socials
 
