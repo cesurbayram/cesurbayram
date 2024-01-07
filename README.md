@@ -55,18 +55,21 @@
 
 ## 📚 Relevant Coursework
 
-### Electronics Engineering
-- Signals and Systems        - Microprocessors          - Control System
-- Network Theory             - Power System             - Analog Electronics
-- Image Processing           - Communication System     - Field Theory
-- Wave Theory                - Cryptology               - Integrated Circuits
-
-
-### Computer Engineering
-- OOP (Object-Oriented Programming)    - Software Methodology         - Internet Technology
-- Computer Organization                - Algorithms Analysis          - Systems Programming
-- Operating System                     - Database Management          - Computer Architecture
-- Data Structures                      - Artificial Intelligence      - Computer Network
+### Electronics Engineering                  |        ### Computer Engineering
+-------------------------------------------  | ---------------------------------------
+- Signals and Systems                        | - OOP (Object-Oriented Programming)
+- Microprocessors                            | - Software Methodology
+- Control System                             | - Internet Technology
+- Network Theory                             | - Computer Organization
+- Power System                               | - Algorithms Analysis
+- Analog Electronics                         | - Systems Programming
+- Image Processing                           | - Operating System
+- Communication System                       | - Database Management
+- Field Theory                               | - Computer Architecture
+- Wave Theory                                | - Data Structures
+- Cryptology                                 | - Artificial Intelligence
+- Integrated Circuits                        | - Computer Network
+                           
 
 
 ## 💰 Support Me
