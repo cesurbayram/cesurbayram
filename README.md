@@ -69,8 +69,6 @@
 - Wave Theory                                | - Data Structures
 - Cryptology                                 | - Artificial Intelligence
 - Integrated Circuits                        | - Computer Network
-                           
-
 
 ## 💰 Support Me
 
