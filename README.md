@@ -1,13 +1,13 @@
 # 👨‍💻 About Me
-Hello! I am a Software and Systems Engineer with a keen interest in Electronic and Computer Engineering. I served as the founder of the Google Developer Student Club between 2021 and 2022.
+Hello there! I'm a Software and Systems Engineer passionate about Electronics & Computer Engineering. I've had the privilege of leading as the Founder of the Google Developer Student Club at GTU from 2021 to 2022.
 
-My expertise lies in designing software solutions that amalgamate the worlds of electronic and computer engineering, crafting engineering marvels. The challenge of merging cutting-edge technology with user-centered design to create innovative systems motivates me.
+My expertise lies in crafting and engineering software solutions that merge the worlds of electronics and computing. I am driven by the challenge of creating innovative systems that blend cutting-edge technology with user-centric design.
 
-I derive immense pleasure from continual learning and exploring new horizons in software development. I am particularly excited about honing my skills in software architecture and system design.
+I thrive on continuous learning and exploring new frontiers in software development. I'm particularly enthusiastic about refining my skills in software architecture and system design to build robust and scalable solutions.
 
-During my spare time, I explore the latest advancements in technology, brainstorm new project ideas, or mentor developers within the tech community.
+When I'm not coding, you'll find me exploring the latest developments in technology, brainstorming new project ideas, or mentoring aspiring developers in the tech community.
 
-Let's explore the vast horizons of technology together!
+Let's connect and explore the vast horizons of technology together!
 
 🔭 Currently working on: Backend-focused full-stack web development.
 🤝 Interested in collaborating on: Open-source ML projects and tech community initiatives.
