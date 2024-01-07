@@ -1,20 +1,20 @@
 # 👨‍💻 About Me
-Hello there! I'm a Software and Systems Engineer passionate about Electronics & Computer Engineering. I've had the privilege of leading as the Founder of the Google Developer Student Club at GTU from 2021 to 2022.
+Hello! I am a Software and Systems Engineer with a keen interest in Electronic and Computer Engineering. I served as the founder of the Google Developer Student Club between 2021 and 2022.
 
-My expertise lies in crafting and engineering software solutions that merge the worlds of electronics and computing. I am driven by the challenge of creating innovative systems that blend cutting-edge technology with user-centric design.
+My expertise lies in designing software solutions that amalgamate the worlds of electronic and computer engineering, crafting engineering marvels. The challenge of merging cutting-edge technology with user-centered design to create innovative systems motivates me.
 
-I thrive on continuous learning and exploring new frontiers in software development. I'm particularly enthusiastic about refining my skills in software architecture and system design to build robust and scalable solutions.
+I derive immense pleasure from continual learning and exploring new horizons in software development. I am particularly excited about honing my skills in software architecture and system design.
 
-When I'm not coding, you'll find me exploring the latest developments in technology, brainstorming new project ideas, or mentoring aspiring developers in the tech community.
+During my spare time, I explore the latest advancements in technology, brainstorm new project ideas, or mentor developers within the tech community.
 
-Let's connect and explore the vast horizons of technology together!
+Let's explore the vast horizons of technology together!
 
-- 🔭 Currently working on: Backend-focused full-stack web development.
-- 🤝 Looking to collaborate on: Open-source ML projects and tech community initiatives.
-- 🆘 Need help with: Optimizing database interactions and refining data processing algorithms.
-- 📚 Learning: Advanced AI concepts, especially neural networks and NLP.
-- ❓ Ask me about: Full-stack development, project management, or code deployment strategies.
-- 🎉 Fun fact: Developed an AI chatbot that recites poetry in a 24-hour hackathon!
+🔭 Currently working on: Backend-focused full-stack web development.
+🤝 Interested in collaborating on: Open-source ML projects and tech community initiatives.
+🆘 Need help with: Optimizing database interactions and enhancing data processing algorithms.
+📚 Learning about: Advanced AI concepts, especially neural networks and NLP.
+❓ You can ask me about: Full-stack development, project management, or code deployment strategies.
+🎉 Fun fact: I developed an AI chatbot that recites poetry in a 24-hour hackathon!
 
 ## 🌐 Socials
 
