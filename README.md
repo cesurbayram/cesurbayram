@@ -55,21 +55,33 @@
 
 ## 📚 Relevant Coursework
 
-### Electronics Engineering                  |        ### Computer Engineering
--------------------------------------------  | ---------------------------------------
-- Signals and Systems                        | - OOP (Object-Oriented Programming)
-- Microprocessors                            | - Software Methodology
-- Control System                             | - Internet Technology
-- Network Theory                             | - Computer Organization
-- Power System                               | - Algorithms Analysis
-- Analog Electronics                         | - Systems Programming
-- Image Processing                           | - Operating System
-- Communication System                       | - Database Management
-- Field Theory                               | - Computer Architecture
-- Wave Theory                                | - Data Structures
-- Cryptology                                 | - Artificial Intelligence
-- Integrated Circuits                        | - Computer Network
+### Electronics Engineering
+- Signals and Systems
+- Network Theory
+- Power System
+- Control System
+- Analog Electronics
+- Microprocessors
+- Image Processing
+- Communication System
+- Field Theory
+- Wave Theory
+- Cryptology
+- Integrated Circuits
 
+### Computer Engineering
+- OOP (Object-Oriented Programming)
+- Computer Organization
+- Operating System
+- Data Structures
+- Software Methodology
+- Algorithms Analysis
+- Database Management
+- Artificial Intelligence
+- Internet Technology
+- Systems Programming
+- Computer Architecture
+- Computer Network
 ## 💰 Support Me
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/cesurbayram) 
