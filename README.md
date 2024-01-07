@@ -19,15 +19,15 @@
 
 ### Languages
 
-- C, C#, C++, Java, HTML5, LaTeX, Python, PHP, Ruby, Dart
+- C, C#, C++, Java, Python, PHP, Ruby, JavaScript
 
 ### Hosting/SaaS
 
-- AWS, Google Cloud, Firebase, Heroku, Oracle
+- AWS, Google Cloud, Firebase
 
 ### Frameworks, Platforms & Libraries
 
-- .Net, Anaconda, Angular, Bootstrap, Django, Express.js, FastAPI, Flask, Flutter, jQuery, JWT, Next.js, OpenCV, RabbitMQ, Rails, React, React Native, Redux, SASS, Socket.io, Vue.js, Yarn
+- .Net, Angular, Django, Flask, Flutter, jQuery, Next.js, OpenCV, RabbitMQ, Rails, React, Socket.io, Vue.js
 
 ### Servers
 
@@ -35,7 +35,7 @@
 
 ### Databases
 
-- Firebase, Microsoft SQL Server, MongoDB, MySQL, SQLite, Postgres, Redis
+- Firebase, Microsoft SQL Server, MongoDB, MySQL, Postgres, Redis
 
 ### Design
 
@@ -56,32 +56,18 @@
 ## 📚 Relevant Coursework
 
 ### Electronics Engineering
-- Signals and Systems
-- Network Theory
-- Power System
-- Control System
-- Analog Electronics
-- Microprocessors
-- Image Processing
-- Communication System
-- Field Theory
-- Wave Theory
-- Cryptology
-- Integrated Circuits
+- Signals and Systems        - Microprocessors          - Control System
+- Network Theory             - Power System             - Analog Electronics
+- Image Processing           - Communication System     - Field Theory
+- Wave Theory                - Cryptology               - Integrated Circuits
+
 
 ### Computer Engineering
-- OOP (Object-Oriented Programming)
-- Computer Organization
-- Operating System
-- Data Structures
-- Software Methodology
-- Algorithms Analysis
-- Database Management
-- Artificial Intelligence
-- Internet Technology
-- Systems Programming
-- Computer Architecture
-- Computer Network
+- OOP (Object-Oriented Programming)    - Software Methodology         - Internet Technology
+- Computer Organization                - Algorithms Analysis          - Systems Programming
+- Operating System                     - Database Management          - Computer Architecture
+- Data Structures                      - Artificial Intelligence      - Computer Network
+
 
 ## 💰 Support Me
 
