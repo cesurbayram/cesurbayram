@@ -1,4 +1,5 @@
 # 👨‍💻 About Me
+-Hey there! I'm deeply involved in backend-focused full-stack web development and always seeking collaborations on open-source ML projects and tech community initiatives. Currently, I'm enthusiastic about improving database interactions and fine-tuning data processing algorithms.I'm dedicated to learning advanced AI concepts, particularly diving into neural networks and NLP. Feel free to ask me anything about full-stack development, project management strategies, or innovative code deployment approaches. On a lighter note, I once developed an AI chatbot during a 24-hour hackathon that surprisingly recites poetry! Let's connect and explore the fascinating intersections of technology and creativity!
 
 - 🔭 Currently working on: Backend-focused full-stack web development.
 - 🤝 Looking to collaborate on: Open-source ML projects and tech community initiatives.
