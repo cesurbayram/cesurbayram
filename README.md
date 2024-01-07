@@ -1,5 +1,13 @@
 # 👨‍💻 About Me
--Hey there! I'm deeply involved in backend-focused full-stack web development and always seeking collaborations on open-source ML projects and tech community initiatives. Currently, I'm enthusiastic about improving database interactions and fine-tuning data processing algorithms.I'm dedicated to learning advanced AI concepts, particularly diving into neural networks and NLP. Feel free to ask me anything about full-stack development, project management strategies, or innovative code deployment approaches. On a lighter note, I once developed an AI chatbot during a 24-hour hackathon that surprisingly recites poetry! Let's connect and explore the fascinating intersections of technology and creativity!
+Hello there! I'm a Software and Systems Engineer passionate about Electronics & Computer Engineering. I've had the privilege of leading as the Founder of the Google Developer Student Club at GTU from 2021 to 2022.
+
+My expertise lies in crafting and engineering software solutions that merge the worlds of electronics and computing. I am driven by the challenge of creating innovative systems that blend cutting-edge technology with user-centric design.
+
+I thrive on continuous learning and exploring new frontiers in software development. I'm particularly enthusiastic about refining my skills in software architecture and system design to build robust and scalable solutions.
+
+When I'm not coding, you'll find me exploring the latest developments in technology, brainstorming new project ideas, or mentoring aspiring developers in the tech community.
+
+Let's connect and explore the vast horizons of technology together!
 
 - 🔭 Currently working on: Backend-focused full-stack web development.
 - 🤝 Looking to collaborate on: Open-source ML projects and tech community initiatives.
