@@ -9,7 +9,7 @@ When I'm not coding, you'll find me exploring the latest developments in technol
 
 Let's connect and explore the vast horizons of technology together!
 
-- 🔭 Currently working on: Backend-focused full-stack web development.
+- 🔭 Currently working on: Backend-focused full-stack development.
 - 🤝 Looking to collaborate on: Open-source ML projects and tech community initiatives.
 - 🆘 Need help with: Optimizing database interactions and refining data processing algorithms.
 - 📚 Learning: Advanced AI concepts, especially neural networks and NLP.
