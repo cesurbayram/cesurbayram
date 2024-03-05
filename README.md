@@ -24,43 +24,6 @@ Let's connect and explore the vast horizons of technology together!
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cesr.bayram)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22107922/cesr-bayram)
 
-## 💻 Tech Stack
-
-### Languages
-
-- C, C#, C++, Java, Python, PHP, Ruby, JavaScript
-
-### Hosting/SaaS
-
-- AWS, Google Cloud, Firebase
-
-### Frameworks, Platforms & Libraries
-
-- .Net, Angular, Django, Flask, Flutter, jQuery, Next.js, OpenCV, RabbitMQ, Rails, React, Socket.io, Vue.js
-
-### Servers
-
-- Apache, Jenkins
-
-### Databases
-
-- Firebase, Microsoft SQL Server, MongoDB, MySQL, Postgres, Redis
-
-### Design
-
-- Adobe Illustrator, Blender, Canva
-
-### ML/DL
-
-- NumPy, Pandas, TensorFlow, APACHEKAFKA
-
-### DevOps
-
-- Docker, Kubernetes
-
-### Others
-
-- Arduino, Power Bi, Raspberry Pi
 
 ## 📚 Relevant Coursework
 
